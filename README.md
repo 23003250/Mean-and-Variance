@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
 
+# Developed By : S Midhun
+
+# Reg. No. : 212223240087
 
 # Aim : 
 
