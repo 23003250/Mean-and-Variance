@@ -39,6 +39,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
       ![image](https://user-images.githubusercontent.com/103921593/192940255-2d9dd746-6875-4a6d-877b-6da6cdb96ab1.png)
 
 5.  Calculate variance using 
+
   
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
 
@@ -49,6 +50,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```python
+# Developed By : S Midhun
+# Reg. No. : 212223240087
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
@@ -73,7 +76,7 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 # Output : 
-![mean and variance](https://github.com/23003250/Mean-and-Variance/assets/139331462/f16b65b6-b559-4937-a69c-24f577cb3d01)
+![mean and variance](https://github.com/23003250/Mean-and-Variance/assets/139331462/401adc54-fd14-418c-8521-ee1853a3040f)
 
 
 # Results :
