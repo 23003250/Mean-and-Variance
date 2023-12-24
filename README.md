@@ -60,6 +60,15 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Program :
+
+
+
+
+
+
+
+
+
 ```python
 # Developed By : S Midhun
 # Reg. No. : 212223240087
@@ -89,6 +98,9 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
 # Output : 
+
+
+
 ![mean and variance](https://github.com/23003250/Mean-and-Variance/assets/139331462/401adc54-fd14-418c-8521-ee1853a3040f)
 
 
